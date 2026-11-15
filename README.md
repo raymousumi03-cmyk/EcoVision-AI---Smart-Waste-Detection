@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/ccf44010-5355-4556-8342-6a54a3da0058
+
+<img width="1247" height="737" alt="Screenshot 2026-11-15 202352" src="https://github.com/user-attachments/assets/55d16532-0cc2-4172-a3c6-ad016eae2d1c" />
+<img width="1210" height="597" alt="Screenshot 2026-11-15 202329" src="https://github.com/user-attachments/assets/312116fd-6fdd-44cd-9c5d-c8a0d29abc42" />
 <img width="1287" height="652" alt="Screenshot 2026-11-15 202543" src="https://github.com/user-attachments/assets/31d1175b-c30d-4c0a-a559-d03a7d2cb0d0" />
 
 # ♻️ EcoVision AI – Smart Waste Detection
