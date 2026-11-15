@@ -1,3 +1,4 @@
+<img width="1287" height="652" alt="Screenshot 2026-11-15 202543" src="https://github.com/user-attachments/assets/31d1175b-c30d-4c0a-a559-d03a7d2cb0d0" />
 
 # ♻️ EcoVision AI – Smart Waste Detection
 
